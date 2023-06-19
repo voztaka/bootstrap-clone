@@ -1,0 +1,17 @@
+.nav-bar {
+}
+
+.center{
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+}
+
+.left {
+    display: flex;
+    background-color: aqua;
+}
+
+.right{
+
+}
